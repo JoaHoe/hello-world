@@ -1,4 +1,9 @@
 # hello-world
-new ideas, resources, discussion with others
-this is a new repo of JH
-update 3.7.22
+
+To all interested in automated mapping
+
+The repository 'buildenh_jh' is a tool for automated mapping.
+If you interested to try or to contribute with ideas, resources and discusssions
+please inform me using my e-mail address jh@gaf-net.dk
+
+Joachim Höhle
