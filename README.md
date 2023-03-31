@@ -1,6 +1,6 @@
 # hello-world
 
-To people interested in automated mapping
+To people interested in automated mapping using remote sensing imagery.
 
 The repository 'buildenh_jh' is a tool for automated mapping.
 If you are interested to try the tool or to contribute with ideas, resources and discussions please inform me.
