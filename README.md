@@ -9,4 +9,4 @@ The repository 'EduServ17Mat' is a learning tool. It contains programs and data 
 
 Joachim Höhle
 
-jh@gaf-net.dk
+jkhoehle@gmail.com
